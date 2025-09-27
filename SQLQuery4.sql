@@ -1,0 +1,8 @@
+SELECT TOP (1000) [id]
+      ,[Matricula]
+      ,[Nombre]
+      ,[Edad]
+      ,[Sexo]
+      ,[Email]
+      ,[Activo]
+  FROM [Escuela].[dbo].[Alumnos]
